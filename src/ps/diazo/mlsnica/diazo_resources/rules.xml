@@ -12,9 +12,9 @@
 
     <after css:theme-children="html head">
       <!-- Add custom stylesheet. -->
-      <link rel="stylesheet" href="{$portal_url}/++theme++customer.diazo.propertyshelf_com/static/main.css" type="text/css" />
-      <link rel="stylesheet" href="{$portal_url}/++theme++customer.diazo.propertyshelf_com/static/button.css" type="text/css" />
-      <script src="{$portal_url}/++theme++customer.diazo.propertyshelf_com/static/main.js"></script>
+      <link rel="stylesheet" href="{$portal_url}/++theme++ps.diazo.mlsnica/static/main.css" type="text/css" />
+      <link rel="stylesheet" href="{$portal_url}/++theme++ps.diazo.mlsnica/static/button.css" type="text/css" />
+      <script src="{$portal_url}/++theme++ps.diazo.mlsnica/static/main.js"></script>
 
       <!-- Add custom JavaScript. -->
 
